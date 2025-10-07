@@ -1,5 +1,5 @@
 .colorUno{ 
-    background-color: #3f41d8;
+    background-color: #5397db;
 
 }
 
@@ -16,7 +16,7 @@
 
 .fuente{
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
+  font-optical-sizing: 400px;
   font-style: normal;
 }
 
