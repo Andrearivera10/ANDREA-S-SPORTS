@@ -1,0 +1,37 @@
+.colorUno{ 
+    background-color: #5397db;
+
+}
+
+.colorDos{
+    background-color: #69baa5;
+
+}
+
+.colorTres{
+    background-color: #c6fcec;
+
+}
+
+
+.fuente{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: 400px;
+  font-style: normal;
+}
+
+.fondo{
+    background-image: url(../img/Fondo.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.btn.btn-primary:hover{
+
+ background-color: #5397db;
+ border-color:#5397db ;
+ color: white;
+
+}
